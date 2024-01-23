@@ -1,0 +1,2 @@
+# block_state_property
+predicateのblock_state_propertyに関するデータパックサンプルになります。
